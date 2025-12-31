@@ -5,7 +5,7 @@ Bem-vindo ao repositório do **Echo**, um streaming de música onde você pode o
 ## 🔗 **Links**
 - 🌐 **Site**: [https://pacoca.site/](https://pacoca.net/@echo)
 - <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" /> **Download para Android: [Play Store](https://play.google.com/store/apps/details?id=com.joaoalves.echo)**
-- <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />  **Download para Windows: (Em desenvolvimento)**
+- <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />  **Download para Windows: [Google Drive](https://drive.google.com/file/d/1CNeTD97Wpay1CEaeVVb4fBrg39o7mltW/view?usp=sharing)**
 - <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />  **Download para MacOS: (Em desenvolvimento)**
 - <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />  **Download para Linux: (Em desenvolvimento)**
 - <img height="15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" /> **Aplicativo IOS: (Em desenvolvimento)**
